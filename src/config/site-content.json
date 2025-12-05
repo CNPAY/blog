@@ -45,17 +45,17 @@
 	"currentBackgroundImageId": "4c36cf5063a33401",
 	"socialButtons": [
 		{
-			"id": "github",
-			"type": "link",
-			"value": "https://dog.do",
-			"label": "米表",
-			"order": 3
-		},
-		{
 			"id": "juejin",
 			"type": "github",
 			"value": "https://github.com/cnpay",
 			"label": "Github",
+			"order": 1
+		},
+		{
+			"id": "github",
+			"type": "link",
+			"value": "https://dog.do",
+			"label": "米表",
 			"order": 2
 		},
 		{
@@ -63,7 +63,7 @@
 			"type": "email",
 			"value": "955555@gmail.com",
 			"label": "",
-			"order": 1
+			"order": 3
 		}
 	]
 }
