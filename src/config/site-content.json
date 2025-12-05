@@ -55,15 +55,22 @@
 			"id": "github",
 			"type": "link",
 			"value": "https://dog.do",
-			"label": "米表",
+			"label": "Domain",
 			"order": 2
+		},
+		{
+			"id": "button-1764913446559",
+			"type": "link",
+			"value": "https://yunpan.org",
+			"label": "OpenList",
+			"order": 3
 		},
 		{
 			"id": "email",
 			"type": "email",
 			"value": "955555@gmail.com",
 			"label": "",
-			"order": 3
+			"order": 4
 		}
 	]
 }
