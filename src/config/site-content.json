@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"title": "YYsuni",
-		"description": "YYsuni 的个人博客，记录前端开发、探索笔记。前端 UI 更新代码仓库。"
+		"title": "R²",
+		"description": "Rich & Rare."
 	},
 	"theme": {
 		"colorBrand": "#de4331",
@@ -13,44 +13,55 @@
 		"colorCard": "#ffffff66",
 		"colorArticle": "#ffffffcc"
 	},
-	"backgroundColors": ["#FCC841", "#DFEFFC", "#DEDE92", "#DE4331", "#FE9750", "#FCC841"],
+	"backgroundColors": [
+		"#FCC841",
+		"#DFEFFC",
+		"#DEDE92",
+		"#DE4331",
+		"#FE9750",
+		"#FCC841"
+	],
 	"artImages": [
 		{
 			"id": "cat",
 			"url": "/images/art/cat.png"
 		},
 		{
-			"id": "a46372ff45bc5524",
-			"url": "/images/art/a46372ff45bc5524.jpg"
+			"id": "31274cbcbe0bc3ac",
+			"url": "/images/art/31274cbcbe0bc3ac.jpg"
 		}
 	],
-	"currentArtImageId": "a46372ff45bc5524",
+	"currentArtImageId": "31274cbcbe0bc3ac",
 	"backgroundImages": [
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "4c36cf5063a33401",
+			"url": "/images/background/4c36cf5063a33401.JPG"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "4c36cf5063a33401",
 	"socialButtons": [
 		{
 			"id": "github",
-			"type": "github",
-			"value": "https://github.com/yysuni",
-			"label": "Github",
+			"type": "link",
+			"value": "https://dog.do",
+			"label": "米表",
 			"order": 3
 		},
 		{
 			"id": "juejin",
-			"type": "juejin",
-			"value": "https://juejin.cn/user/2427311675422382",
-			"label": "稀土掘金",
+			"type": "github",
+			"value": "https://github.com/cnpay",
+			"label": "Github",
 			"order": 2
 		},
 		{
 			"id": "email",
 			"type": "email",
-			"value": "yysuni1001@gmail.com",
+			"value": "955555@gmail.com",
 			"label": "",
 			"order": 1
 		}
