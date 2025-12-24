@@ -67,6 +67,13 @@
 			"type": "tg",
 			"value": "https://t.me/UCQQQ",
 			"label": "",
+			"order": 3
+		},
+		{
+			"id": "button-1766562425714",
+			"type": "xiaohongshu",
+			"value": "https://xhslink.com/m/5QRCQvgfhnN",
+			"label": "",
 			"order": 4
 		}
 	],
