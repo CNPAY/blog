@@ -5,8 +5,8 @@
 		"username": "aoe"
 	},
 	"theme": {
-		"colorBrand": "#602FAA",
-		"colorPrimary": "#170caf",
+		"colorBrand": "#53B296",
+		"colorPrimary": "#194242e0",
 		"colorSecondary": "#acadae",
 		"colorBrandSecondary": "#51d0b9",
 		"colorBg": "#0a051f",
@@ -15,10 +15,11 @@
 		"colorArticle": "#6f6f6f33"
 	},
 	"backgroundColors": [
-		"#15CA30",
-		"#C7B1B3",
-		"#85B372",
-		"#A9AB17"
+		"#77FA88",
+		"#082B65",
+		"#31D2A3",
+		"#A4D435",
+		"#3F5621"
 	],
 	"artImages": [
 		{
