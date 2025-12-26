@@ -3,8 +3,8 @@
 		"width": 324,
 		"height": 270,
 		"order": 3,
-		"offsetX": 239,
-		"offsetY": 92,
+		"offsetX": 246,
+		"offsetY": 79,
 		"enabled": true
 	},
 	"hiCard": {
@@ -28,8 +28,8 @@
 		"width": 290,
 		"height": 269,
 		"order": 5,
-		"offsetX": 247,
-		"offsetY": -209,
+		"offsetX": 255,
+		"offsetY": -211,
 		"enabled": true
 	},
 	"musicCard": {
@@ -37,8 +37,8 @@
 		"height": 62,
 		"offset": 120,
 		"order": 6,
-		"offsetX": 261,
-		"offsetY": -291,
+		"offsetX": 263,
+		"offsetY": -295,
 		"enabled": true
 	},
 	"socialButtons": {
@@ -69,8 +69,8 @@
 		"height": 42,
 		"width": 180,
 		"order": 8,
-		"offsetX": -391,
-		"offsetY": -281,
+		"offsetX": -402,
+		"offsetY": -280,
 		"enabled": true
 	},
 	"navCard": {
